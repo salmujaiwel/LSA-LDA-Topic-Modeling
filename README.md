@@ -1,6 +1,7 @@
 # LSA-LDA-Topic-Modeling
 
 The outputs of 10 topics and content words (keywords) generated in each topic, utilizing the document-term matrix and the algorithm of singular value decomposition in LSA and LDA. 
+
 Sub-corpus: newspapers; Tokens: 446,170,582; Texts: 1,067,404
 ###
 Years 1996-2015
