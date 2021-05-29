@@ -11,4 +11,4 @@ Opinions on women (texts 17,883; running tokens 469,966; running words 419,358; 
 
 News on men (texts 9998; running tokens 349,361; running words 318,044; function words 247,669; content words 70,375) 
 
-Opinion on men (texts 19,990; running tokens 466,660; running words 419,145; function words 316,033; content words 103,112)
+Opinions on men (texts 19,990; running tokens 466,660; running words 419,145; function words 316,033; content words 103,112)
