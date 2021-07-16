@@ -1,4 +1,5 @@
 # LSA-LDA-Topic-Modeling
+Acknowledgement: Original Code: https://www.kaggle.com/rcushen/topic-modelling-with-lsa-and-lda
 
 The outputs of 10 topics and content words (keywords) generated in each topic, utilizing the document-term matrix and the algorithm of singular value decomposition in LSA and LDA. 
 
